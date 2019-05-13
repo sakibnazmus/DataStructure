@@ -1,2 +1,6 @@
 ./Debug
 ./DataStructure.sln
+./DataStructure/Debug
+./DataStructure/DataStructure.vcxproj
+./DataStructure/DataStructure.vcxproj.filters
+./DataStructure/DataStructure.vcxproj.user
